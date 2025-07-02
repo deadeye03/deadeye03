@@ -71,6 +71,12 @@ Includes WebView integration and real-time hardware validation.
   <img src="https://github-profile-trophy.vercel.app/?username=deadeye03&theme=onedark&margin-w=10" />
 </p>
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deadeye03&theme=tokyo-night" />
+</p>
+
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn]((https://www.linkedin.com/in/saurabh-kr-a99236264/))  
