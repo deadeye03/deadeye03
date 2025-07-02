@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** who loves buildi
 `Node.js` `Express.js` `MongoDB` `Supabase` `Prisma` `PostgreSQL`  
 
 **Other Tools & Tech:**  
-`OpenAI API` `Socket.io` `BLE (Bluetooth Low Energy)` `Web3 / NFT` `Git` `Figma`  
+`React-Native` `OpenAI API` `Socket.io` `BLE (Bluetooth Low Energy)` `Web3 / NFT` `Git` `Figma`  
 
 ---
 
@@ -79,7 +79,7 @@ Includes WebView integration and real-time hardware validation.
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/saurabh-kr-a99236264/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/saurabh-kr-a99236264/)  
 - 🌐 [Portfolio](https://saurabh-portfoilio.vercel.app/)  
 - 📧 Email: cimagesaurabh@gmail.com
 
