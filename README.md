@@ -56,9 +56,19 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** who loves buildi
 Includes WebView integration and real-time hardware validation.
 
 ---
+
+
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deadeye03&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deadeye03&theme=tokyonight" />
+</p>
+
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deadeye03&theme=onedark&margin-w=10" />
 </p>
 
 ## 📫 Let's Connect
