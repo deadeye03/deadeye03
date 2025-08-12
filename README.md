@@ -6,7 +6,6 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** who loves buildi
 
 ## 🚀 About Me
 
-- 🎓 Final-year BCA student  
 - 💻 2+ years of experience in web development  
 - 🌍 Open to remote and international opportunities  
 - 🎯 Focused on modern web development using **Next.js, React, Node.js, and TypeScript**  
