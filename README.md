@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** who loves buildi
 - AI-generated work experience summaries  
 - Built with: `Next.js`, `TypeScript`, `Supabase`, `OpenAI API`
 
-### 🛍 [Whayn3D](https://whayn3d.vercel.app/)
+### 🛍 [Whayn3D](https://whayn.com/)
 > B2B e-commerce platform with 3D product customization  
 - Real-time AI brand news & product configuration  
 - Built with `Next.js`, `Three.js`, `AI`, and `Supabase`
