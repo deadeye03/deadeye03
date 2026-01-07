@@ -79,7 +79,7 @@ Includes WebView integration and real-time hardware validation.
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/saurabh-kr-a99236264/)  
-- 🌐 [Portfolio](https://saurabh-portfoilio.vercel.app/)  
+- 🌐 [Portfolio](https://saurabh-dev.me/)  
 - 📧 Email: cimagesaurabh@gmail.com
 
 ---
