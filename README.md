@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** who loves buildi
 
 ## 🔥 Featured Projects
 
-### 🧠 [Sarthi-AI](https://www.sarthi-ai.click/)
+### 🧠 [Sarthi-AI](https://sarthi-ai-two.vercel.app/)
 > An AI-powered career assistant for students  
 - Resume builder & analyzer with ATS score  
 - Interview preparation & personalized suggestions  
