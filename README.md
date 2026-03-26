@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** who loves buildi
 - 💻 2+ years of experience in web development  
 - 🌍 Open to remote and international opportunities  
 - 🎯 Focused on modern web development using **Next.js, React, Node.js, and TypeScript**  
-- 🧠 Exploring **Web3**, **LLMs**, and **AI-first products**  
+- 🧠 Exploring  **DevOps**, **Web3**, and **AI-first products**  
 
 ---
 
