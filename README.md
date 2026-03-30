@@ -16,13 +16,13 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** who loves buildi
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-`Next.js` `React.js` `TypeScript` `Tailwind CSS` `Shadcn UI`  
+`Next.js` `React.js` `TypeScript` `Tailwind CSS` `Shadcn UI` 
 
 **Backend & Database:**  
-`Node.js` `Express.js` `MongoDB` `Supabase` `Prisma` `PostgreSQL`  
+`Node.js` `Express.js` `MongoDB` `Supabase` `Prisma` `PostgreSQL` `Better-Auth` 
 
 **Other Tools & Tech:**  
-`React-Native` `OpenAI API` `Socket.io` `BLE (Bluetooth Low Energy)` `Web3 / NFT` `Git` `Figma`  
+`DevOps` `React-Native` `OpenAI API` `Socket.io` `BLE (Bluetooth Low Energy)` `Web3 / NFT` `Git` `Figma`  
 
 ---
 
