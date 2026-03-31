@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Saurabh Kumar
 
-Welcome to my GitHub! I'm a passionate **Full-Stack Developer** who loves building **AI-powered**, **3D-enabled**, and **scalable web applications** that solve real-world problems.
+Welcome to my GitHub! I'm a passionate **Full-Stack Developer** who loves building **AI-powered**, **3D-enabled**, **DevOps** and **scalable web applications** that solve real-world problems.
 
 ---
 
