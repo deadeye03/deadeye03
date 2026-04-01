@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** who loves buildi
 `Node.js` `Express.js` `MongoDB` `Supabase` `Prisma` `PostgreSQL` `Better-Auth` 
 
 **Other Tools & Tech:**  
-`DevOps` `React-Native` `OpenAI API` `Socket.io` `BLE (Bluetooth Low Energy)` `Web3 / NFT` `Git` `Figma`  
+`DevOps` `React-Native` `OpenAI API` `Socket.io` `BLE (Bluetooth Low Energy)` `Web3 / NFT` `Git` `Figma` `convex` 
 
 ---
 
