@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** who loves buildi
 ### 🛍 [Whayn3D](https://whayn.com/)
 > B2B e-commerce platform with 3D product customization  
 - Real-time AI brand news & product configuration  
-- Built with `Next.js`, `Three.js`, `AI`, and `Supabase`
+- Built with `Next.js`, `Three.js`, `AI`, `Node.js` and `Supabase`
 
 ### 🎉 [Evenza](https://app.evenza.xyz/)
 > Next-gen event platform with AI and blockchain  
